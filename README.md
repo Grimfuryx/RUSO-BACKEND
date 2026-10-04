@@ -1,4 +1,4 @@
-# RUSO Backend API
+# [RUSO](https://rusonow.com) Backend API
 
 Secure Express + MongoDB Atlas REST API for the **RUSO** shop — handles live inventory, cart checkout validation, stock reservation, and admin management.
 
